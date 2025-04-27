@@ -1,4 +1,4 @@
-# Quote-Generator
+# Quote Generator
 This is a dynamic Quote Generator web application built using HTML, CSS, and JavaScript. The project was developed while following a YouTube tutorial. 
 The app provides inspiring quotes with interactive features for sharing and personalization.
 
